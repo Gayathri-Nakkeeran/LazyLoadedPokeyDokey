@@ -4,7 +4,6 @@ import { BrowserRouter, Routes, Route} from "react-router-dom";
 
 import ProductList from './pages/productList.jsx';
 import ProductDescription from './pages/productDescription.jsx';
-
 function App() {
   
   return (
